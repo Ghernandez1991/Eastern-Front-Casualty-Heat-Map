@@ -1,4 +1,4 @@
 # Eastern-Front-Casualty-Heat-Map
 
-
-image.png
+![Settings Window]
+(https://github.com/Ghernandez1991/Eastern-Front-Casualty-Heat-Map/blob/master/image.png)
